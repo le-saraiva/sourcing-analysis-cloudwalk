@@ -2,7 +2,7 @@
 
 **Author:** Letícia Saraiva  
 **Role:** Talent Acquisition Specialist  
-**Context:** People Analytics technical challenge
+**Context:** Sourcing Analysis with AI
 
 ---
 
